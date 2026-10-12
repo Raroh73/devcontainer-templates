@@ -1,0 +1,10 @@
+{
+  "name": "Base dev environment",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "features": {
+    "ghcr.io/raroh73/devcontainer-features/zsh:latest": {}
+  },
+  "remoteUser": "dev"
+}
