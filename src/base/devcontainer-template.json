@@ -1,8 +1,8 @@
 {
-  "name": "Base dev environment",
+  "name": "Base",
   "id": "base",
-  "description": "Base dev environment based on Fedora",
-  "version": "0.0.1",
+  "description": "Base dev environment based on Fedora.",
+  "version": "0.0.2",
   "documentationURL": "https://github.com/Raroh73/devcontainer-templates/tree/main/src/base",
   "licenseURL": "https://github.com/Raroh73/devcontainer-templates/blob/main/LICENSE",
   "platforms": [
