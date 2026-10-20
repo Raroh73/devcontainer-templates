@@ -1,0 +1,11 @@
+{
+  "name": "Nodejs",
+  "id": "nodejs",
+  "description": "Node.js dev environment based on Fedora.",
+  "version": "0.0.1",
+  "documentationURL": "https://github.com/Raroh73/devcontainer-templates/tree/main/src/nodejs",
+  "licenseURL": "https://github.com/Raroh73/devcontainer-templates/blob/main/LICENSE",
+  "platforms": [
+    "Node.js"
+  ]
+}
