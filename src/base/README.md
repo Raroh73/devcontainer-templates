@@ -1,7 +1,7 @@
 
 # Base (base)
 
-Base dev environment based on Fedora.
+Base dev environment based on Debian.
 
 
 

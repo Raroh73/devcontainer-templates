@@ -1,7 +1,7 @@
 
 # Nodejs (nodejs)
 
-Node.js dev environment based on Fedora.
+Node.js dev environment based on Debian.
 
 
 
